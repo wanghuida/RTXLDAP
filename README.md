@@ -3,13 +3,15 @@ RTXLDAP
 
 ### 让RTX同步LDAP用户，并且实现RTX与LDAP单点登陆
 
-+ 图文教程请访问 [作者的博客](http://wanghd.com/).
++ 图文教程请访问 [作者的博客](http://wanghd.com/blog/2013/01/10/rtxldapjiao-cheng/).
+
 
 + 名词解释
 
 1. RTX: 腾讯出的企业沟通工具
 2. LDAP: 关于人或者其他信息的集中存储，微软的AD就是LDAP的一种
 3. RTXLDAP: 基于RTX的SDK开发出的第三方工具，可以同步LDAP用户，可以RTX与LDAP单点登陆。支持RTX最新版本
+
 
 + 使用流程
 
@@ -36,4 +38,6 @@ RTXLDAP
 <add key="AppName" value="WanghuidaRtxLdap"/>
 ```
 
+
 + vs运行即可
+
